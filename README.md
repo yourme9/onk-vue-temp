@@ -1,4 +1,4 @@
-# cli
+# onk-cli 内置axios网络模块封装
 
 ## Project setup
 ```
@@ -7,7 +7,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run biubiubiu
 ```
 
 ### Compiles and minifies for production
@@ -15,5 +15,5 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### My blog
+See [My blog](https://yourme9.github.io/).
