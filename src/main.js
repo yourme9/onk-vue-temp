@@ -11,12 +11,3 @@ new Vue({
   store,
   render: h => h(App)
 }).$mount('#app')
-
-import {request} from './services/request'
-request({
-  url:'/api/public/v1/home/swiperdata'
-}).then(res=>{
-  console.log(res)
-}).catch(err=>{
-  console.log(err)
-})
